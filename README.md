@@ -28,7 +28,3 @@
 Откройте `index.html` в браузере или разместите содержимое папки на любом статическом хостинге.
 
 Формы работают в демонстрационном режиме и не отправляют данные на сервер.
-
-## Скачать готовую ветку
-
-[ZIP-архив сайта](https://codeload.github.com/bobrinovbebra-tech/REF-WEB-massive-fix/zip/refs/heads/feature/cases-pricing-scroll)
